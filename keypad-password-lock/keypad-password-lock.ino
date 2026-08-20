@@ -6,7 +6,7 @@ LiquidCrystal lcd(7, 6, 5, 4, 3, 2);
 unsigned long digits = 0;
 
 char entered[6];
-char password[] = "5*5C#";
+char password[] = "1234#";
 
 const byte ROWS = 4;
 const byte COLS = 4;
